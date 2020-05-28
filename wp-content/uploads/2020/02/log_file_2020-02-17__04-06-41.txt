@@ -1,0 +1,89 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 90
+Files info:
+Site URL = http://badanhukum.com
+Data file = /home2/badanhuk/public_html/wp-content/uploads/2020/02/content3.xml
+Widget file = /home2/badanhuk/public_html/wp-content/uploads/2020/02/widget3.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "valve" (Media)
+[ERROR] Failed to import "help" (Media)
+[ERROR] Failed to import "gear" (Media)
+[ERROR] Failed to import "creativity" (Media)
+[ERROR] Failed to import "gas-pipe" (Media)
+[ERROR] Failed to import "mechanic" (Media)
+[ERROR] Failed to import "boots" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "valve" (Media)
+[ERROR] Failed to import "help" (Media)
+[ERROR] Failed to import "gear" (Media)
+[ERROR] Failed to import "creativity" (Media)
+[ERROR] Failed to import "gas-pipe" (Media)
+[ERROR] Failed to import "mechanic" (Media)
+[ERROR] Failed to import "boots" (Media)
+[ERROR] Failed to import "factory-structure" (Media)
+[ERROR] Failed to import "download" (Media)
+[ERROR] Failed to import "pdf" (Media)
+[ERROR] Failed to import "factory-structure" (Media)
+[ERROR] Failed to import "contact" (Media)
+[ERROR] Failed to import "network" (Media)
+[ERROR] Failed to import "objective" (Media)
+[ERROR] Failed to import "wallet" (Media)
+[ERROR] Failed to import "plumber" (Media)
+[ERROR] Failed to import "email" (Media)
+[ERROR] Failed to import "location" (Media)
+[ERROR] Failed to import "phone1" (Media)
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+indusy Search - No Title - Widget already exists
+Categories - Categories - Widget already exists
+indusy Recent Posts - Recent News - Widget already exists
+Archives - No Title - Widget already exists
+Text - Gallery - Widget already exists
+Tag Cloud - Tags - Widget already exists
+Text - No Title - Widget already exists
+
+sidebar-service : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Footer One Widget : 
+
+Text - No Title - Widget already exists
+
+Footer Two Widget : 
+
+Text - No Title - Widget already exists
+
+Footer Three Widget : 
+
+Text - No Title - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+

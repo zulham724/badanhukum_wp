@@ -1,0 +1,558 @@
+
+---Downloaded files---
+The import files for: Demo Import Industrio5 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://badanhukum.com
+Data file = /home2/badanhuk/public_html/wp-content/uploads/2020/02/demo-content-import-file_2020-02-17__02-26-54.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				home		" (Media)
+[ERROR] Failed to import "
+				sun		" (Media)
+[ERROR] Failed to import "
+				barrel		" (Media)
+[ERROR] Failed to import "
+				repair		" (Media)
+[ERROR] Failed to import "
+				welding-svg		" (Media)
+[ERROR] Failed to import "
+				flask3		" (Media)
+[ERROR] Failed to import "
+				seeding2		" (Media)
+[ERROR] Failed to import "
+				worker		" (Media)
+[ERROR] Failed to import "
+				shield		" (Media)
+[ERROR] Failed to import "
+				shield-2		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				innovation-2		" (Media)
+[ERROR] Failed to import "
+				beach		" (Media)
+[ERROR] Failed to import "
+				beach-white		" (Media)
+[ERROR] Failed to import "
+				gear		" (Media)
+[ERROR] Failed to import "
+				seeding		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				home		" (Media)
+[ERROR] Failed to import "
+				sun		" (Media)
+[ERROR] Failed to import "
+				barrel		" (Media)
+[ERROR] Failed to import "
+				repair		" (Media)
+[ERROR] Failed to import "
+				welding-svg		" (Media)
+[ERROR] Failed to import "
+				flask3		" (Media)
+[ERROR] Failed to import "
+				seeding2		" (Media)
+[ERROR] Failed to import "
+				worker		" (Media)
+[ERROR] Failed to import "
+				shield		" (Media)
+[ERROR] Failed to import "
+				shield-2		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				innovation-2		" (Media)
+[ERROR] Failed to import "
+				beach		" (Media)
+[ERROR] Failed to import "
+				beach-white		" (Media)
+[ERROR] Failed to import "
+				gear		" (Media)
+[ERROR] Failed to import "
+				seeding		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				home		" (Media)
+[ERROR] Failed to import "
+				sun		" (Media)
+[ERROR] Failed to import "
+				barrel		" (Media)
+[ERROR] Failed to import "
+				repair		" (Media)
+[ERROR] Failed to import "
+				welding-svg		" (Media)
+[ERROR] Failed to import "
+				flask3		" (Media)
+[ERROR] Failed to import "
+				seeding2		" (Media)
+[ERROR] Failed to import "
+				worker		" (Media)
+[ERROR] Failed to import "
+				shield		" (Media)
+[ERROR] Failed to import "
+				shield-2		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				innovation-2		" (Media)
+[ERROR] Failed to import "
+				beach		" (Media)
+[ERROR] Failed to import "
+				beach-white		" (Media)
+[ERROR] Failed to import "
+				gear		" (Media)
+[ERROR] Failed to import "
+				seeding		" (Media)
+[ERROR] Failed to import "
+				engineer		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				bank-building		" (Media)
+[ERROR] Failed to import "
+				cup		" (Media)
+[ERROR] Failed to import "
+				statistics-white		" (Media)
+[ERROR] Failed to import "
+				wallet-white		" (Media)
+[ERROR] Failed to import "
+				solar-panel		" (Media)
+[ERROR] Failed to import "
+				eolic-energy		" (Media)
+[ERROR] Failed to import "
+				atom		" (Media)
+[ERROR] Failed to import "
+				flash		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				home		" (Media)
+[ERROR] Failed to import "
+				sun		" (Media)
+[ERROR] Failed to import "
+				barrel		" (Media)
+[ERROR] Failed to import "
+				repair		" (Media)
+[ERROR] Failed to import "
+				welding-svg		" (Media)
+[ERROR] Failed to import "
+				flask3		" (Media)
+[ERROR] Failed to import "
+				seeding2		" (Media)
+[ERROR] Failed to import "
+				worker		" (Media)
+[ERROR] Failed to import "
+				shield		" (Media)
+[ERROR] Failed to import "
+				shield-2		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				innovation-2		" (Media)
+[ERROR] Failed to import "
+				beach		" (Media)
+[ERROR] Failed to import "
+				beach-white		" (Media)
+[ERROR] Failed to import "
+				gear		" (Media)
+[ERROR] Failed to import "
+				seeding		" (Media)
+[ERROR] Failed to import "
+				engineer		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				bank-building		" (Media)
+[ERROR] Failed to import "
+				cup		" (Media)
+[ERROR] Failed to import "
+				statistics-white		" (Media)
+[ERROR] Failed to import "
+				wallet-white		" (Media)
+[ERROR] Failed to import "
+				solar-panel		" (Media)
+[ERROR] Failed to import "
+				eolic-energy		" (Media)
+[ERROR] Failed to import "
+				atom		" (Media)
+[ERROR] Failed to import "
+				flash		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				home		" (Media)
+[ERROR] Failed to import "
+				sun		" (Media)
+[ERROR] Failed to import "
+				barrel		" (Media)
+[ERROR] Failed to import "
+				repair		" (Media)
+[ERROR] Failed to import "
+				welding-svg		" (Media)
+[ERROR] Failed to import "
+				flask3		" (Media)
+[ERROR] Failed to import "
+				seeding2		" (Media)
+[ERROR] Failed to import "
+				worker		" (Media)
+[ERROR] Failed to import "
+				shield		" (Media)
+[ERROR] Failed to import "
+				shield-2		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				innovation-2		" (Media)
+[ERROR] Failed to import "
+				beach		" (Media)
+[ERROR] Failed to import "
+				beach-white		" (Media)
+[ERROR] Failed to import "
+				gear		" (Media)
+[ERROR] Failed to import "
+				seeding		" (Media)
+[ERROR] Failed to import "
+				engineer		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				bank-building		" (Media)
+[ERROR] Failed to import "
+				cup		" (Media)
+[ERROR] Failed to import "
+				statistics-white		" (Media)
+[ERROR] Failed to import "
+				wallet-white		" (Media)
+[ERROR] Failed to import "
+				solar-panel		" (Media)
+[ERROR] Failed to import "
+				eolic-energy		" (Media)
+[ERROR] Failed to import "
+				atom		" (Media)
+[ERROR] Failed to import "
+				flash		" (Media)
+[ERROR] Failed to import "
+				clock		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				home		" (Media)
+[ERROR] Failed to import "
+				sun		" (Media)
+[ERROR] Failed to import "
+				barrel		" (Media)
+[ERROR] Failed to import "
+				repair		" (Media)
+[ERROR] Failed to import "
+				welding-svg		" (Media)
+[ERROR] Failed to import "
+				flask3		" (Media)
+[ERROR] Failed to import "
+				seeding2		" (Media)
+[ERROR] Failed to import "
+				worker		" (Media)
+[ERROR] Failed to import "
+				shield		" (Media)
+[ERROR] Failed to import "
+				shield-2		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				innovation-2		" (Media)
+[ERROR] Failed to import "
+				beach		" (Media)
+[ERROR] Failed to import "
+				beach-white		" (Media)
+[ERROR] Failed to import "
+				gear		" (Media)
+[ERROR] Failed to import "
+				seeding		" (Media)
+[ERROR] Failed to import "
+				engineer		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				bank-building		" (Media)
+[ERROR] Failed to import "
+				cup		" (Media)
+[ERROR] Failed to import "
+				statistics-white		" (Media)
+[ERROR] Failed to import "
+				wallet-white		" (Media)
+[ERROR] Failed to import "
+				solar-panel		" (Media)
+[ERROR] Failed to import "
+				eolic-energy		" (Media)
+[ERROR] Failed to import "
+				atom		" (Media)
+[ERROR] Failed to import "
+				flash		" (Media)
+[ERROR] Failed to import "
+				clock		" (Media)
+[ERROR] Failed to import "
+				barrel-white		" (Media)
+[ERROR] Failed to import "
+				wheat		" (Media)
+[ERROR] Failed to import "
+				strawberry		" (Media)
+[ERROR] Failed to import "
+				flask-2		" (Media)
+[ERROR] Failed to import "
+				flask		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				home		" (Media)
+[ERROR] Failed to import "
+				sun		" (Media)
+[ERROR] Failed to import "
+				barrel		" (Media)
+[ERROR] Failed to import "
+				repair		" (Media)
+[ERROR] Failed to import "
+				welding-svg		" (Media)
+[ERROR] Failed to import "
+				flask3		" (Media)
+[ERROR] Failed to import "
+				seeding2		" (Media)
+[ERROR] Failed to import "
+				worker		" (Media)
+[ERROR] Failed to import "
+				shield		" (Media)
+[ERROR] Failed to import "
+				shield-2		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				innovation-2		" (Media)
+[ERROR] Failed to import "
+				beach		" (Media)
+[ERROR] Failed to import "
+				beach-white		" (Media)
+[ERROR] Failed to import "
+				gear		" (Media)
+[ERROR] Failed to import "
+				seeding		" (Media)
+[ERROR] Failed to import "
+				engineer		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				bank-building		" (Media)
+[ERROR] Failed to import "
+				cup		" (Media)
+[ERROR] Failed to import "
+				statistics-white		" (Media)
+[ERROR] Failed to import "
+				wallet-white		" (Media)
+[ERROR] Failed to import "
+				solar-panel		" (Media)
+[ERROR] Failed to import "
+				eolic-energy		" (Media)
+[ERROR] Failed to import "
+				atom		" (Media)
+[ERROR] Failed to import "
+				flash		" (Media)
+[ERROR] Failed to import "
+				clock		" (Media)
+[ERROR] Failed to import "
+				barrel-white		" (Media)
+[ERROR] Failed to import "
+				wheat		" (Media)
+[ERROR] Failed to import "
+				strawberry		" (Media)
+[ERROR] Failed to import "
+				flask-2		" (Media)
+[ERROR] Failed to import "
+				flask		" (Media)
+[ERROR] Failed to import "
+				telephone		" (Media)
+[ERROR] Failed to import "
+				location		" (Media)
+[ERROR] Failed to import "
+				close-envelope		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				home		" (Media)
+[ERROR] Failed to import "
+				sun		" (Media)
+[ERROR] Failed to import "
+				barrel		" (Media)
+[ERROR] Failed to import "
+				repair		" (Media)
+[ERROR] Failed to import "
+				welding-svg		" (Media)
+[ERROR] Failed to import "
+				flask3		" (Media)
+[ERROR] Failed to import "
+				seeding2		" (Media)
+[ERROR] Failed to import "
+				worker		" (Media)
+[ERROR] Failed to import "
+				shield		" (Media)
+[ERROR] Failed to import "
+				shield-2		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				innovation-2		" (Media)
+[ERROR] Failed to import "
+				beach		" (Media)
+[ERROR] Failed to import "
+				beach-white		" (Media)
+[ERROR] Failed to import "
+				gear		" (Media)
+[ERROR] Failed to import "
+				seeding		" (Media)
+[ERROR] Failed to import "
+				engineer		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				bank-building		" (Media)
+[ERROR] Failed to import "
+				cup		" (Media)
+[ERROR] Failed to import "
+				statistics-white		" (Media)
+[ERROR] Failed to import "
+				wallet-white		" (Media)
+[ERROR] Failed to import "
+				solar-panel		" (Media)
+[ERROR] Failed to import "
+				eolic-energy		" (Media)
+[ERROR] Failed to import "
+				atom		" (Media)
+[ERROR] Failed to import "
+				flash		" (Media)
+[ERROR] Failed to import "
+				clock		" (Media)
+[ERROR] Failed to import "
+				barrel-white		" (Media)
+[ERROR] Failed to import "
+				wheat		" (Media)
+[ERROR] Failed to import "
+				strawberry		" (Media)
+[ERROR] Failed to import "
+				flask-2		" (Media)
+[ERROR] Failed to import "
+				flask		" (Media)
+[ERROR] Failed to import "
+				telephone		" (Media)
+[ERROR] Failed to import "
+				location		" (Media)
+[ERROR] Failed to import "
+				close-envelope		" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "
+				home		" (Media)
+[ERROR] Failed to import "
+				sun		" (Media)
+[ERROR] Failed to import "
+				barrel		" (Media)
+[ERROR] Failed to import "
+				repair		" (Media)
+[ERROR] Failed to import "
+				welding-svg		" (Media)
+[ERROR] Failed to import "
+				flask3		" (Media)
+[ERROR] Failed to import "
+				seeding2		" (Media)
+[ERROR] Failed to import "
+				worker		" (Media)
+[ERROR] Failed to import "
+				shield		" (Media)
+[ERROR] Failed to import "
+				shield-2		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				innovation-2		" (Media)
+[ERROR] Failed to import "
+				beach		" (Media)
+[ERROR] Failed to import "
+				beach-white		" (Media)
+[ERROR] Failed to import "
+				gear		" (Media)
+[ERROR] Failed to import "
+				seeding		" (Media)
+[ERROR] Failed to import "
+				engineer		" (Media)
+[ERROR] Failed to import "
+				innovation		" (Media)
+[ERROR] Failed to import "
+				bank-building		" (Media)
+[ERROR] Failed to import "
+				cup		" (Media)
+[ERROR] Failed to import "
+				statistics-white		" (Media)
+[ERROR] Failed to import "
+				wallet-white		" (Media)
+[ERROR] Failed to import "
+				solar-panel		" (Media)
+[ERROR] Failed to import "
+				eolic-energy		" (Media)
+[ERROR] Failed to import "
+				atom		" (Media)
+[ERROR] Failed to import "
+				flash		" (Media)
+[ERROR] Failed to import "
+				clock		" (Media)
+[ERROR] Failed to import "
+				barrel-white		" (Media)
+[ERROR] Failed to import "
+				wheat		" (Media)
+[ERROR] Failed to import "
+				strawberry		" (Media)
+[ERROR] Failed to import "
+				flask-2		" (Media)
+[ERROR] Failed to import "
+				flask		" (Media)
+[ERROR] Failed to import "
+				telephone		" (Media)
+[ERROR] Failed to import "
+				location		" (Media)
+[ERROR] Failed to import "
+				close-envelope		" (Media)
+
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,49 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: May 25, 2020 12:29 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.34
+WORDPRESS:	5.4.1
+PHP INFO:	7.2.31 | SAPI: litespeed
+SERVER:		LiteSpeed 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 42.5MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20200525_konsultanpendirianbadanhukum_e51c2cada84122373089_20200525002530_database.sql
+SQL FILE SIZE: 10.05MB (10540485)
+SQL FILE TIME: 2020-05-25 00:29:18
+SQL RUNTIME: 6.22 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /home2/badanhuk/public_html
+ARCHIVE FILE: 20200525_konsultanpendirianbadanhukum_e51c2cada84122373089_20200525002530_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	450.23MB
+STATS:	Dirs 1,052 | Files 12,016
+SQL ADDED: 20200525_konsultanpendirianbadanhukum_e51c2cada84122373089_20200525002530_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 13068
+    [filename] => /home2/badanhuk/public_html/wp-snapshots/tmp/20200525_konsultanpendirianbadanhukum_e51c2cada84122373089_20200525002530_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 13067

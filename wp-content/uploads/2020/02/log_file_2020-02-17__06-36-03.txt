@@ -1,0 +1,51 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 90
+Files info:
+Site URL = http://badanhukum.com
+Data file = /home2/badanhuk/public_html/wp-content/uploads/2020/02/content3-1.xml
+Widget file = /home2/badanhuk/public_html/wp-content/uploads/2020/02/widget3-1.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - Categories - Widget already exists
+ Recent Posts - Recent News - Widget already exists
+Archives - No Title - Widget already exists
+Text - Gallery - Widget already exists
+Tag Cloud - Tags - Widget already exists
+Text - No Title - Widget already exists
+
+Service Sidebar : 
+
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+
+Footer One Widget : 
+
+Text - No Title - Widget already exists
+
+Footer Two Widget : 
+
+Text - No Title - Widget already exists
+
+Footer Three Widget : 
+
+Text - No Title - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+

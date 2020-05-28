@@ -1,0 +1,22 @@
+[17-Feb-2020 02:17:22 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 02:17:25 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 02:17:34 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 02:17:36 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 02:17:37 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 02:17:41 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 02:17:44 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 06:17:03 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 06:17:03 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 06:17:10 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 06:17:23 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 06:17:23 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 06:17:44 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 06:17:57 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[17-Feb-2020 06:17:58 UTC] PHP Warning:  sprintf(): Too few arguments in /home2/badanhuk/public_html/wp-admin/includes/class-bulk-upgrader-skin.php on line 152
+[26-Feb-2020 03:41:46 UTC] PHP Warning:  unlink(/home2/badanhuk/public_html/wp-content/uploads/fusion-builder-avada-pages/data.zip): No such file or directory in /home2/badanhuk/public_html/wp-content/themes/Avada/includes/avada-functions.php on line 882
+[26-Feb-2020 03:41:46 UTC] PHP Warning:  fopen(/home2/badanhuk/public_html/wp-content/uploads/fusion-builder-avada-pages/data.zip): failed to open stream: No such file or directory in /home2/badanhuk/public_html/wp-content/themes/Avada/includes/avada-functions.php on line 883
+[12-Mar-2020 00:05:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/badanhuk/public_html/wp-content/plugins/buttonizer-multifunctional-button/app/Utils/Update.php on line 38
+[12-Mar-2020 00:05:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/badanhuk/public_html/wp-content/plugins/buttonizer-multifunctional-button/app/Utils/Update.php on line 38
+[12-Mar-2020 00:05:53 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/badanhuk/public_html/wp-content/plugins/buttonizer-multifunctional-button/app/Utils/Update.php on line 38
+[12-Mar-2020 00:05:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home2/badanhuk/public_html/wp-content/plugins/buttonizer-multifunctional-button/app/Frontend/Buttonizer.php on line 48
+[18-Mar-2020 07:09:20 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home2/badanhuk/public_html/wp-includes/update.php on line 577
